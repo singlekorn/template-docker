@@ -3,7 +3,7 @@ Collection of docker container templates and ad-hoc images for testing.
 
 ## Tools
 
-use `..\launch.sh` in a container directory to quickly build and run it locally.
+use `..\launch.sh -b <tag>` in a container directory to quickly build, run, and remove a docker container.
 
 ## Tools
 
