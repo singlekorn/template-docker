@@ -15,4 +15,4 @@ RUN pip install --no-cache-dir -r requirements.txt
 WORKDIR /opt
 COPY ./scripts/ . 
 
-CMD [ "bash" ]
+CMD [ "python3" ]

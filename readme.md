@@ -1,4 +1,5 @@
 # Ad-Hoc Containers
+Collection of docker container templates and ad-hoc images for testing.
 
 ## Tools
 
